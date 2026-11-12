@@ -1,6 +1,7 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
 
+// Flutter application entry point.
 void main() => runApp(const DiceApp());
 
 class DiceApp extends StatelessWidget {
