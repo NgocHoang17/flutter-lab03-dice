@@ -55,7 +55,7 @@ class _DicePageState extends State<DicePage> {
 
   @override
   Widget build(BuildContext context) => Scaffold(
-    appBar: AppBar(title: const Text('DICE / 03')),
+    appBar: AppBar(title: const Text('')),
     body: SafeArea(
       child: Center(
         child: SingleChildScrollView(
